@@ -64,6 +64,7 @@ public class LoopPattern {
         System.out.println("Pattern D Done.");
         patternE(num);
         System.out.println("Pattern E Done.");
+       input.close();
 
     }
     public static void patternA(int num){
